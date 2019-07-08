@@ -1,0 +1,3 @@
+# Testing
+
+curl -X POST -H "Content-Type: application/json" -d @src/ttn_http_POST_output.json http://requestbin.fullcontact.com/xqgahfxq

@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/rob/.platformio/penv/bin:/Users/rob/.platformio/penv:/Users/rob/anaconda3/bin:/Users/rob/.rbenv/shims:/Users/rob/.sdkman/candidates/jbake/current/bin:/Users/rob/.sdkman/candidates/groovy/current/bin:/Users/rob/.sdkman/candidates/gradle/current/bin:/Users/rob/perl5/bin:/Users/rob/.nvm/versions/node/v12.2.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/go/bin:/opt/X11/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/rob/.rvm/bin:/Users/rob/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
