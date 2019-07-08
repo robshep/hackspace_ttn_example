@@ -1,0 +1,46 @@
+{
+    "app_id": "hackspace_otaa_example",
+    "dev_id": "hackpace_ttn_uno",
+    "hardware_serial": "0004A30B001BFDCC",
+    "port": 1,
+    "counter": 69,
+    "payload_raw": "AWcA3AJogA==",
+    "payload_fields": {
+        "relative_humidity_2": 100,
+        "temperature_1": 250
+    },
+    "metadata": {
+        "time": "2019-07-08T13:49:25.794822977Z",
+        "frequency": 868.5,
+        "modulation": "LORA",
+        "data_rate": "SF7BW125",
+        "coding_rate": "4/5",
+        "gateways": [
+            {
+                "gtw_id": "eui-b827ebfffe9dd55d",
+                "timestamp": 2536656595,
+                "time": "2019-07-08T13:49:25.784273Z",
+                "channel": 2,
+                "rssi": -66,
+                "snr": 7.2,
+                "rf_chain": 1,
+                "latitude": 53.18557,
+                "longitude": -4.07396,
+                "altitude": 80
+            },
+            {
+                "gtw_id": "eui-abcdefabcdef1234",
+                "timestamp": 2536656595,
+                "time": "2019-07-08T13:49:25.784273Z",
+                "channel": 2,
+                "rssi": 100,
+                "snr": 500,
+                "rf_chain": 1,
+                "latitude": 20.18557,
+                "longitude": -3.07396,
+                "altitude": 200
+            }
+        ]
+    },
+    "downlink_url": "https://integrations.thethingsnetwork.org/ttn-eu/api/v2/down/hackspace_otaa_example/requestbin_test?key=ttn-account-v2.JzjoRDbc8rzcn3solGkjuUJX71bSIu83FScAJgc5zI8"
+}

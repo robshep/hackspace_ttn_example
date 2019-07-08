@@ -1,0 +1,7 @@
+# Testing output to RequestBin
+
+curl -X POST -H "Content-Type: application/json" -d @src/ttn_http_POST_output.json http://requestbin.fullcontact.com/xqgahfxq
+
+# Testing output to Google Docs sheet Code.gs-based webapp.
+
+curl -i -X POST -H "Content-Type: application/json" -d @src/ttn_http_POST_output.json https://script.google.com/macros/s/AKfycbwwi_VXXxa56dd3o7klUpR65YnnAOjY_NjrwUb6WAO-ZDDoa3g/exec
